@@ -105,7 +105,7 @@ Node.js • Express • MongoDB • React • Next.js
 
 # 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/leonardo-banoy-lopez-68a92a">
+<a href="https://www.linkedin.com/in/leonardo-banoy-lopez-68a92a2b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
