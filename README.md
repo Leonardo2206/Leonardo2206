@@ -87,8 +87,6 @@ Full Stack ticket management system with JWT authentication and role-based acces
 ### 🛠️ Stack
 Node.js • Express • TypeScript • MongoDB • React • Vite
 
-🔗 Backend Repository:
-https://github.com/Leonardo0622/ticket-system-backend
 
 ---
 
