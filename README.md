@@ -87,18 +87,6 @@ Full Stack ticket management system with JWT authentication and role-based acces
 ### 🛠️ Stack
 Node.js • Express • TypeScript • MongoDB • React • Vite
 
-
----
-
-## 🛒 Ecommerce Gym
-
-Full Stack E-commerce platform with authentication, cart and order management.
-
-### ⚡ Stack
-Node.js • Express • MongoDB • React • Next.js
-
-🚧 Project currently under reconstruction
-
 ---
 
 # 🌐 Connect With Me
