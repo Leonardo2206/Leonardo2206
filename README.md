@@ -12,6 +12,8 @@ Software Development Technologist (UNIMINUTO, 2026) and Software Engineering stu
 - 💼 Open to work: remote, hybrid or on-site · full-time or part-time
 - 📫 leonardobanoy48@gmail.com
 
+<img align="right" width="300px" alt="Coding" src="https://i.pinimg.com/736x/d8/14/a4/d814a4a679ddc553d397c02c9af8e789.jpg" />
+
 ---
 
 ## 🛠️ Tech Stack
