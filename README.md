@@ -2,9 +2,13 @@
 
 # Hi, I'm Leonardo Banoy 👋
 
+<img align="right" width="300px" alt="Coding" src="https://i.pinimg.com/736x/d8/14/a4/d814a4a679ddc553d397c02c9af8e789.jpg" />
+
 ### Software Developer · Node.js · TypeScript · React
 
+
 Software Development Technologist (UNIMINUTO, 2026) and Software Engineering student based in Villavicencio, Colombia. I build REST APIs and full-stack apps with TypeScript, and I automate business processes with GoHighLevel.
+
 
 - 🔐 Focus: authentication (JWT, httpOnly cookies), role-based authorization, validation and clean API architecture
 - 🧪 Testing with Vitest + Supertest
@@ -12,7 +16,6 @@ Software Development Technologist (UNIMINUTO, 2026) and Software Engineering stu
 - 💼 Open to work: remote, hybrid or on-site · full-time or part-time
 - 📫 leonardobanoy48@gmail.com
 
-<img align="right" width="300px" alt="Coding" src="https://i.pinimg.com/736x/d8/14/a4/d814a4a679ddc553d397c02c9af8e789.jpg" />
 
 ---
 
